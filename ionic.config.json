@@ -1,0 +1,7 @@
+{
+  "name": "cap-share-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
